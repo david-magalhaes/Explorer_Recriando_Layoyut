@@ -12,4 +12,44 @@ body {
 h1 {
   font-family: 'Dosis', sans-serif;
   text-align: center;
+  color: #3F3D56;
+  
+}
+
+h1 span{
+  font-weight: bold;
+  color: #EE24FF;
+}
+
+p{
+  color: #828282
+}
+
+p strong{
+  color: #3F3D56;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+#footer a{
+    margin-left: 28px;
+    color: #7d7987;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.line {
+    width: 568px;
+    height: 0;
+
+    margin: 0 auto 8px;
+
+    border: 1px solid #ECEFF2;
+}
+
+#waves {
+  
+  bottom: 0;
+  right: 0;
 }
